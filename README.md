@@ -38,7 +38,7 @@ at-risk, and growth customer segments.
 
 ## Files
 - 📄 Final Report: `report/Customer Segmentation Using RFM + Clustering.docx`
-- 🌐 Analysis & Visuals: `analysis/Untitled.html`
+- 🌐 Analysis & Visuals: `analysis/Analysis`
 
 ## Author
 Karthik
